@@ -5,7 +5,7 @@ public class _02Operators {
 	public static void main(String[] args) {
 		int a=10,b=10, c=10,d=10,i=10,k=1;
 		boolean j=true;
-		System.out.println(a++);	//Postfix operator : value returned first and den incremented/decremented
+		System.out.println(a++);	//Post fix operator : value returned first and den incremented/decremented
 		System.out.println(b--);
 		System.out.println(++c);	//Prefix operator : value incremented/decremented first and den returned
 		System.out.println(--d);
