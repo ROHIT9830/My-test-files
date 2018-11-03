@@ -16,6 +16,7 @@ package com.ibm;
 			//int e= d will throw error since its a Narrowing conversion and hence needs type casting
 			int e= (int)d;
 			System.out.println(e);//Type casting done and no error with output as 5
+			System.out.println("Done");
 		}
 		
 	}
