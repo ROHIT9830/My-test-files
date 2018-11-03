@@ -15,7 +15,7 @@ public class _04Scanner {
 		int b=scn.nextInt();
 		int sum = a+b;
 		System.out.println("The answer is : "+ sum);
-		System.out.println("bye, tc");
+		System.out.println("bye, tcre");
 	}
 
 }
