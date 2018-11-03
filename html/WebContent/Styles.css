@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+.beta table {
+    border-collapse: collapse;
+}
+
+.beta table, .beta td, .beta th {
+	padding:7px;
+    border: 1px solid black;
+}
