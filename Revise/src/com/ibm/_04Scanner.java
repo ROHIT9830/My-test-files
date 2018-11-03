@@ -18,3 +18,4 @@ public class _04Scanner {
 	}
 
 }
+//scanner object is present
